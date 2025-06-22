@@ -9,7 +9,7 @@
         <version>3.5.0</version>
     </parent>
 
-    <groupId>com.farukgenc</groupId>
+    <groupId>com.chamado</groupId>
     <artifactId>springboot-boilerplate</artifactId>
     <version>3.5.0</version>
 

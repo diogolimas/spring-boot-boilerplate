@@ -33,7 +33,7 @@ management:
 logging:
   level:
     org.springframework: INFO
-    com.farukgenc.boilerplate.springboot: INFO
+    com.chamado: INFO
 
 ## FIXME : Customize JWT token and Swagger information for your application
 

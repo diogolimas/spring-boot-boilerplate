@@ -39,8 +39,8 @@ Run service in command line. Navigate to *target* directory.
 
  - [For Angular]
  
-### License
+### Subir o bd
 
-Apache License 2.0
-
-   [For Angular]: <https://github.com/Genc/angular-boilerplate>
+```shell
+docker-compose up db 
+```
